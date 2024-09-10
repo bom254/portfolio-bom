@@ -1228,7 +1228,8 @@ body {
 .about--banner img {
     position: absolute;
     bottom: -90px;
-    right: -12px
+    right: -12px;
+    margin-right: 0px;
 }
 
 .about--options {
